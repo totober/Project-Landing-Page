@@ -123,3 +123,40 @@ i {
     font-weight: 800;
     font-size: 18px;
 }
+
+
+
+.last {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last-container {
+    height: 110px;
+    width: 950px;
+    background-color: #3882f6;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.text {
+    color: white;
+    font-size: 18px;
+}
+.last-p {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+.text p {
+    margin-top: 0px;
+}
+
+.last-button {
+    border-style: solid;
+    border-color: white;
+}
