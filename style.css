@@ -1,0 +1,26 @@
+body {
+    font-family: roboto, arial, sans-serif;
+   }
+   
+   .header {
+       background-color: #1f2937;
+       color: #f9faf8;
+       display: flex;
+       align-items: center;
+       justify-content: space-around;
+       font-size: 24px;
+       
+       
+   
+   }
+   
+   ul.links {
+       list-style: none;
+       display: flex;
+       gap: 18px;
+       font-size: 18px;
+       color: #e5e7eb;
+   }
+   li {
+       text-decoration: none;
+   }
